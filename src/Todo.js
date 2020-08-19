@@ -3,9 +3,6 @@ import {CardLab} from './CardLab'
 
 export class Todo extends React.Component {
 
-    constructor(props) {
-        super(props);
-    }   
 
     render() {
         return (  

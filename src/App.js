@@ -24,7 +24,7 @@ class App extends React.Component {
 
   handleSubmit(e) {
     e.preventDefault();
-    if (!this.state.text.length || this.state.priority == 0 || this.state.dueDate == null) {
+    if (!this.state.text.length || this.state.priority === 0 || this.state.dueDate === null) {
       alert("Recuerde que debe llenar todos los campos y no puede repetir datos.")
       return;
     }
