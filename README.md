@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Comandos 
+  Para descargar las dependencias: ```npm install```
+  
+  Para ejecutar la aplicación: ```npm start```
+  
+  
+  **IMPORTANTE:** Para poder utilizar el aplicativo es necesario instalar las dependencias primero con el comando **npm install**.
+  
+## Enunciado
+El enunciado del laboratorio está disponible [aquí](https://github.com/ieti-eci/1.1-react-intro).
+
+## Autor
+Johann Sebastian Páez Campos - Laboratorio 01 IETI 21/08/2020
+
 ## Available Scripts
 
 In the project directory, you can run:
